@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:flutter/services.dart'; // Import for Clipboard
 import 'package:share_plus/share_plus.dart';
 import 'package:apexcify_flutter_task_2_random_quote/presentation/controllers/quote_controller.dart';
 
@@ -19,6 +20,15 @@ class HomePage extends GetView<QuoteController> {
                 SharePlus.instance.share(
                   ShareParams(text: '"${controller.currentQuote.value!.content}" - ${controller.currentQuote.value!.author}')
                     );
+              }
+            },
+          ),
+          IconButton(
+            icon: Icon(Icons.copy),
+            onPressed: () {
+              if (controller.currentQuote.value != null) {
+                Clipboard.setData(ClipboardData(text: '"${controller.currentQuote.value!.content}" - ${controller.currentQuote.value!.author}'));
+                Get.snackbar('Copied', 'Quote copied to clipboard!');
               }
             },
           ),
