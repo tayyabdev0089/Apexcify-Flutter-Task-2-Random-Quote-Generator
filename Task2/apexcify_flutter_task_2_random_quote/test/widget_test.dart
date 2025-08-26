@@ -3,16 +3,20 @@ import 'package:flutter_test/flutter_test.dart';
 import 'package:get/get.dart';
 import 'package:mockito/mockito.dart';
 import 'package:apexcify_flutter_task_2_random_quote/domain/entities/quote_entity.dart';
+import 'package:apexcify_flutter_task_2_random_quote/domain/usecases/get_random_quote.dart'; // Import GetRandomQuote
 import 'package:apexcify_flutter_task_2_random_quote/presentation/controllers/quote_controller.dart';
 import 'package:apexcify_flutter_task_2_random_quote/presentation/pages/home_page.dart';
-import 'mocks.mocks.dart';
+
+// Mocks
+import 'mocks.mocks.dart'; // Generated mock file
 
 void main() {
   late MockGetRandomQuote mockGetRandomQuote;
 
   setUp(() {
     mockGetRandomQuote = MockGetRandomQuote();
-    Get.lazyPut<QuoteController>(() => QuoteController(getRandomQuote: mockGetRandomQuote));
+    Get.lazyPut<GetRandomQuote>(() => mockGetRandomQuote);
+    Get.lazyPut<QuoteController>(() => QuoteController(getRandomQuoteUseCase: Get.find()));
   });
 
   tearDown(() {
@@ -32,7 +36,7 @@ void main() {
     );
 
     // Act
-    await tester.pump();
+    await tester.pump(); // Pump to trigger the controller's onInit and fetchRandomQuote
 
     // Assert
     expect(find.text('"Test Quote"'), findsOneWidget);

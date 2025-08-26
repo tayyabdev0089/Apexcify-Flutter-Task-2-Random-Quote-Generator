@@ -1,0 +1,802 @@
+[
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": false
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": false
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": false
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": false
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": false
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": false
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": false
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": false
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": false
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": false
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": false
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": true
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": false
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": false
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": false
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": false
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": false
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": false
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": false
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": false
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": false
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": false
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": true
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": false
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": false
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": false
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": false
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": false
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": false
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": false
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": false
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": false
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": false
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": false
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": false
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": true
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": false
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": false
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": false
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": false
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": false
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": false
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": false
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": false
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": false
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": false
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": false
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": false
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": true
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": false
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": false
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": false
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": false
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": false
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": false
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": false
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": false
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": false
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": false
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": true
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": false
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": false
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": false
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": false
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": false
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": false
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": false
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": false
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": false
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": false
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": false
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": true
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": false
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": false
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": false
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": false
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": false
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": false
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": false
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": false
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": false
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": false
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": false
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": false
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": false
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": true
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": false
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": false
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": false
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": false
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": false
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": false
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": false
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": false
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": false
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": false
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": true
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": false
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": false
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": false
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": false
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": false
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": false
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": false
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": false
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": false
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": false
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Innovation distinguishes between a leader and a follower.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "Stay hungry, stay foolish.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    },
+    {
+        "content": "The future belongs to those who believe in the beauty of their dreams.",
+        "author": "Eleanor Roosevelt",
+        "isFavorite": true
+    },
+    {
+        "content": "The only impossible journey is the one you never begin.",
+        "author": "Tony Robbins",
+        "isFavorite": false
+    },
+    {
+        "content": "Life is what happens when you’re busy making other plans.",
+        "author": "John Lennon",
+        "isFavorite": false
+    },
+    {
+        "content": "Do not watch the clock. Do what it does. Keep going.",
+        "author": "Sam Levenson",
+        "isFavorite": false
+    },
+    {
+        "content": "Everything you can imagine is real.",
+        "author": "Pablo Picasso",
+        "isFavorite": false
+    },
+    {
+        "content": "Happiness is not something ready made. It comes from your own actions.",
+        "author": "Dalai Lama",
+        "isFavorite": false
+    },
+    {
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        "author": "Winston Churchill",
+        "isFavorite": false
+    },
+    {
+        "content": "The only way to do great work is to love what you do.",
+        "author": "Steve Jobs",
+        "isFavorite": false
+    }
+]
